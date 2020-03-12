@@ -1,0 +1,15 @@
+{
+  "name": "teste-commit-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarcusGabriel/teste-commit-cli.git",
+  "author": "Marcus <marcus.gbrl@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "dependencies": {
+    "commitizen": "^4.0.3",
+    "git-cz": "^4.3.1"
+  }
+}
